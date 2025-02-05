@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/necronomimicon/is-computer-on"
+    "url": "https://github.com/octomoton/is-computer-on"
   },
   "keywords": [
     "is",
     "computer",
     "on"
   ],
-  "author": "OOQQ <necronomimicon@gmail.com> (necronomimi.com)",
+  "author": "octomoton <adblockdetected@gmail.com> (octomoton.me)",
   "license": "MIT",
   "private": false,
   "engines": {

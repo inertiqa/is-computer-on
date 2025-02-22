@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/octomoton/is-computer-on"
+    "url": "https://github.com/inertiqa/is-computer-on"
   },
   "keywords": [
     "is",
     "computer",
     "on"
   ],
-  "author": "octomoton <adblockdetected@gmail.com> (octomoton.me)",
+  "author": "inertiqa <inertiqa@gmail.com> (inertiqa.com)",
   "license": "MIT",
   "private": false,
   "engines": {
